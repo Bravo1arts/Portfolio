@@ -455,7 +455,7 @@ span{
 	}
 	.main{
 		justify-items: center;
-		width: auto;
+/* 		width: auto; */
 		
 		justify-content: center;
 		margin-left: 20px;
