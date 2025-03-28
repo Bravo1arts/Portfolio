@@ -493,8 +493,8 @@ span{
 	justify-items: center;
 	}
 	.hero-section{
-		margin-top: 15px;
-		justify-items: center;
+	margin-top: 15px;
+	justify-items: center;
 	}
 	.hero-card{
 	flex-wrap: wrap;
@@ -506,8 +506,8 @@ span{
 
 
 	.hero-header > h1{
-		font-size: 80px;
-		text-align: center;
+		font-size: 60px;
+/* 		text-align: center; */
 		width: 100%;
 	}
 	.hero-p{
