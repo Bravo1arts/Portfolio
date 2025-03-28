@@ -20,7 +20,7 @@ html {
 }
 
 header{
-	height: 100px;
+	width: auto;
 	justify-content: center;
 	align-content: center;
 }
@@ -435,6 +435,7 @@ span{
 		box-sizing: border-box;
 	}
 	.header{
+		width: 100%;
 		justify-content: center;
 		justify-items: center;
 	}
