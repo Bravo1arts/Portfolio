@@ -441,7 +441,7 @@ span{
 	.navbar{
 		justify-content: center;
 		justify-items: center;
-		width: 75%;
+		width: 100%;
 	}
 	.nav-list{
 		width: 65%;
