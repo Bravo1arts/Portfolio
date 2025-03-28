@@ -9,6 +9,7 @@ body{
 	font-family: Poppins, sans-serif;
 	font-size: 18px;
 	justify-items: center;
+	justify-contect: center;
 }
 a {
     text-decoration: none;
@@ -442,7 +443,7 @@ span{
 	.navbar{
 		justify-content: center;
 		justify-items: center;
-		width: 100%;
+		width: 75%;
 	}
 	.nav-list{
 		width: 65%;
@@ -465,7 +466,7 @@ span{
 		width: 90vw;
 	}
 	.layout1-container{
-		margin: 0;
+		margin-left: 10px;
 		width: 100%;
 		height: auto;
 	}
@@ -488,7 +489,7 @@ span{
 	.layout2-container{
 /*	background-color: hotpink;*/
 	margin-top: 80px;
-	margin-left: 0px;
+	margin-left: 10px;
 	width: 100%;
 	justify-items: center;
 	}
