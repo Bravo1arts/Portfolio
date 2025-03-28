@@ -431,8 +431,8 @@ span{
 @media (max-width: 850px)
 {
 	*{
-		padding: 5px;
-		margin: 0px;
+		padding: 0;
+		margin: 0;
 		box-sizing: border-box;
 	}
 	.header{
