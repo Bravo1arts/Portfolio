@@ -133,14 +133,14 @@ img{
 .hero-p > p{
 	font-size: 22px;
 /*	background-color: palevioletred;*/
-	width:60%;
+	width:80%;
 	padding: 5px;
 }
 .hero-card{
 	padding: 5px;
 	display: flex;
 	gap: 40px;
-	width: 80%;
+	width: 90%;
 
 }
 .hero-card1{
@@ -514,7 +514,7 @@ span{
 		justify-items: center;
 	}
 	.hero-p > p{
-	width: 65%;
+	width: 85%;
 	}
 	.project-section{
 		margin-top: 15px;
