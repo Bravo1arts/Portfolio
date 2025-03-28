@@ -228,13 +228,11 @@ img{
 .project-1 , .project-2, .project-3{
 	display: flex;
 	width: 90%;
-/*	background-color: paleturquoise;*/
 	margin-bottom: 15px;
 }
 .project1, .project2{
 	width: 30%;
 	border-radius: 8px;
-	background-color: red;
 }
 .project3{
 	width:30%;
